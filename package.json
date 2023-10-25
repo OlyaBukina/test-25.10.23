@@ -1,8 +1,8 @@
 {
-  "name": "my-react-template",
+  "name": "test-25.10.23",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://OlyaBukina.github.io/my-react-template/",
+  "homepage": "https://OlyaBukina.github.io/test-25.10.23/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -10,7 +10,9 @@
     "eslint": "^8.50.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-router-dom": "^6.17.0",
     "react-scripts": "5.0.1",
+    "styled-components": "^5.3.10",
     "web-vitals": "^2.1.3"
   },
   "scripts": {

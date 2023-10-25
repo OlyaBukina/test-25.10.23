@@ -1,1 +1,1 @@
-# My React template for futures projects
+# Test assignment for the JavaScript developer position
